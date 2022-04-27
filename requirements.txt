@@ -1,5 +1,4 @@
 regex
 numpy
 pandas==1.2.5
-itertools
 streamlit
