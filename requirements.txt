@@ -1,6 +1,6 @@
 regex
 numpy
-pandas
+pandas==1.2.5
 warnings
 itertools
 streamlit
